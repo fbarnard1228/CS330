@@ -5,9 +5,12 @@
    imperative to ascertain the consumers' needs, preferences, and areas of discomfort.
    
 2. How do I approach developing programs?
-What new development strategies did you use while working on your 3D scene?
-How did iteration factor into your development?
-How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
-4. How can computer science help me in reaching my goals?
-How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
-How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+   I tried to reuse code that worked in the past. As I have in my job. I will look for a piece of code that works and reuse that code and
+   shape it in the way that I need it used. I had to use iteration on each change for my code. I had to rerun the code when repoisitioning
+   my shapes. I would say that it was overwheming at first and got easier as the milestones progressed. The code became more familiar,
+   therefore easier to unserstand.
+
+3. How can computer science help me in reaching my goals?
+   Computer Science  and this class has taught me a great many things. That effect my current knowledge in my current role,
+   and demonstrate what I could do for future employers. These skills will be pivotal in showing how my skills can translte to the
+   workforce.
